@@ -29,14 +29,12 @@ Ask me about:
 </p>
 
 ### Frameworks & Tools  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=laravel,vue,tailwind,docker,firebase,unity,git,linux" />
-  <img src="https://img.shields.io/badge/Wazuh-005C99?logo=wazuh&logoColor=white&style=for-the-badge" height="30" />
-  <img src="https://img.shields.io/badge/Metasploit-2C2C2C?logo=metasploit&logoColor=white&style=for-the-badge" height="30" />
 </p>
 
 ### Operating Systems  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?logo=rockylinux&logoColor=white&style=for-the-badge" height="30" />
@@ -44,10 +42,12 @@ Ask me about:
 </p>
 
 ### Currently Learning  
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS_Cloud-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/IoT_ESP32-00979D?logo=espressif&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Cybersecurity-FB542B?logo=hackthebox&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Wazuh-005C99?logo=wazuh&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://img.shields.io/badge/Metasploit-2C2C2C?logo=metasploit&logoColor=white&style=for-the-badge" height="30" />
 </p>
 
 ---
@@ -57,6 +57,9 @@ Ask me about:
 <p align="left">
   <a href="https://github.com/SakaGintoki">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/malvinshah-haris-athala">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://linkedin.com/in/malvinshah-haris-athala">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
