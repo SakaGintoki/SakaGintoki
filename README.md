@@ -1,6 +1,5 @@
-#  Hi, I'm Haris 
 
-- **Informatics Engineering Student at Universitas Brawijaya (FILKOM UB)**  
+ - **Informatics Engineering Student**  
 - Interested in **Cybersecurity**, **Cloud Computing**, and **IoT Development**  
 - Currently learning **AWS Cloud Foundations** and **IoT with ESP32**  
 - Exploring the fundamentals of **ethical hacking**, **cloud computing**, and **Capture the Flag**
