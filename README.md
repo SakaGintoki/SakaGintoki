@@ -67,6 +67,6 @@ Ask me about:
 
 ## GitHub Stats  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sakagintoki&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs stats-Dark](https://github-readme-stats.vercel.app/api/top-langs/?username=sakagintoki&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
