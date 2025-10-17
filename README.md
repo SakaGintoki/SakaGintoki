@@ -1,21 +1,21 @@
 # 👋 Hi, I'm Malvinshah Haris Athala  
 
 🎓 **Informatics Engineering Student at Universitas Brawijaya (FILKOM UB)**  
-💡 Passionate about **Cybersecurity**, **Cloud Computing**, and **IoT Development**  
+💡 Interested in **Cybersecurity**, **Cloud Computing**, and **IoT Development**  
 🌱 Currently learning **AWS Cloud Foundations** and **IoT with ESP32**  
-🧠 Actively exploring **CTF challenges**, **digital forensics**, and **game development with Unity**
+🧠 Exploring the fundamentals of **ethical hacking**, **digital forensics**, and **game development with Unity**
 
 ---
 
 ## 🧩 About Me  
 
-I'm an enthusiastic tech learner who loves discovering how systems interact — from cloud infrastructure and IoT devices to ethical hacking and digital forensics.  
-I also develop small Unity games using **C#**. 
+I'm a passionate tech learner who enjoys understanding how systems work and interact — from cloud infrastructure and IoT devices to the basics of cybersecurity and digital forensics.  
+I’m currently focusing on building a strong foundation in security while also creating small Unity projects using **C#**.
 
-💬 Ask me about:
-- Penetration Testing (Web, Mobile, Network)  
-- Digital Forensics & Incident Response  
-- Cloud Fundamentals (AWS)   
+💬 Ask me about:  
+- Basic Cybersecurity Concepts  
+- Cloud Fundamentals (AWS)  
+- IoT Projects with ESP32  
 - Game Development with Unity (C#)  
 
 ---
@@ -23,13 +23,13 @@ I also develop small Unity games using **C#**.
 ## ⚙️ Tech Stack  
 
 **Languages:**  
-`Python` · `Kotlin` · `JavaScript` · `PHP` · `C#`. `C++`
+`Python` · `Kotlin` · `JavaScript` · `PHP` · `C#` · `C++`
 
 **Frameworks & Tools:**  
 `Laravel` · `Vue.js` · `Tailwind CSS` · `Docker` · `Wazuh` · `Metasploit` · `Firebase` · `Unity` · `Git` · `Linux (Arch / Ubuntu)`
 
 **Currently Learning:**  
-`AWS Cloud` · `IoT with ESP32` · 
+`AWS Cloud` · `IoT with ESP32` · `Cybersecurity Fundamentals`  
 
 ---
 
