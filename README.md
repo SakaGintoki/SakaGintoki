@@ -1,5 +1,6 @@
+# **Hi there, i'm Haris 👋**
 
- - **Informatics Engineering Student**  
+- **Informatics Engineering Student**  
 - Interested in **Cybersecurity**, **Cloud Computing**, and **IoT Development**  
 - Currently learning **AWS Cloud Foundations** and **IoT with ESP32**  
 - Exploring the fundamentals of **ethical hacking**, **cloud computing**, and **Capture the Flag**
