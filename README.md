@@ -37,7 +37,7 @@ Ask me about:
 
 ### Operating Systems  
 <p>
-  <img src="https://skillicons.dev/icons?i=arch,linux" />
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?logo=rockylinux&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linuxmint&logoColor=white&style=for-the-badge" height="30" />
