@@ -1,16 +1,17 @@
-# 👋 Hi, I'm Malvinshah Haris Athala  
+#  Hi, I'm Malvinshah Haris Athala  
 
-🎓 **Informatics Engineering Student at Universitas Brawijaya (FILKOM UB)**  
-💡 Interested in **Cybersecurity**, **Cloud Computing**, and **IoT Development**  
-🌱 Currently learning **AWS Cloud Foundations** and **IoT with ESP32**  
-🧠 Exploring the fundamentals of **ethical hacking**, **digital forensics**, and **game development with Unity**
+- **Informatics Engineering Student at Universitas Brawijaya (FILKOM UB)**  
+- Interested in **Cybersecurity**, **Cloud Computing**, and **IoT Development**  
+- Currently learning **AWS Cloud Foundations** and **IoT with ESP32**  
+- Exploring the fundamentals of **ethical hacking**, **cloud computing**, and **Capture the Flag**
 
 ---
 
-## 🧩 About Me  
+## About Me  
 
-I'm a passionate tech learner who enjoys understanding how systems work and interact — from cloud infrastructure and IoT devices to the basics of cybersecurity and digital forensics.  
-I’m currently focusing on building a strong foundation in security while also creating small Unity projects using **C#**.
+I'm currently learning and exploring technologies related to **Cybersecurity** and **Cloud Computing**.  
+My focus is on building a solid understanding of both fields through **cloud-based projects** and participating in **CTF competitions**.  
+I aim to gain practical experience in how systems operate, interact, and can be secured effectively.
 
 💬 Ask me about:  
 - Basic Cybersecurity Concepts  
@@ -20,7 +21,7 @@ I’m currently focusing on building a strong foundation in security while also 
 
 ---
 
-## ⚙️ Tech Stack  
+## Tech Stack  
 
 **Languages:**  
 `Python` · `Kotlin` · `JavaScript` · `PHP` · `C#` · `C++`
@@ -33,7 +34,7 @@ I’m currently focusing on building a strong foundation in security while also 
 
 ---
 
-## 📫 Connect with Me  
+## Connect with Me  
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SakaGintoki)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
