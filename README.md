@@ -24,7 +24,7 @@ Ask me about:
 ## Tech Stack  
 
 ### Languages  
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,kotlin,js,php,cs,cpp" />
 </p>
 
@@ -54,15 +54,12 @@ Ask me about:
 
 ## Connect with Me  
 
-<p align="left">
-  <a href="https://github.com/SakaGintoki">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
-  </a>
+<p align="center">
   <a href="https://linkedin.com/in/malvinshah-haris-athala">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://linkedin.com/in/malvinshah-haris-athala">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  <a href="https://discord.com/users/your_discord_id">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
@@ -70,7 +67,16 @@ Ask me about:
 
 ## GitHub Stats  
 
-![SakaGintoki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakaGintoki&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakaGintoki&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakaGintoki&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SakaGintoki&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakaGintoki&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SakaGintoki&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies"/>
+</p>
 ---
