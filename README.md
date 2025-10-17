@@ -37,7 +37,7 @@ Ask me about:
 
 ### Operating Systems  
 <p>
-  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?logo=archlinux&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://skillicons.dev/icons?i=arch,linux" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?logo=kalilinux&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Rocky_Linux-10B981?logo=rockylinux&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Linux_Mint-87CF3E?logo=linuxmint&logoColor=white&style=for-the-badge" height="30" />
@@ -45,7 +45,7 @@ Ask me about:
 
 ### Currently Learning  
 <p>
-  <img src="https://img.shields.io/badge/AWS_Cloud-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" />
+  <img src="https://skillicons.dev/icons?i=aws" />
   <img src="https://img.shields.io/badge/IoT_ESP32-00979D?logo=espressif&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Cybersecurity-FB542B?logo=hackthebox&logoColor=white&style=for-the-badge" height="30" />
 </p>
@@ -54,13 +54,21 @@ Ask me about:
 
 ## Connect with Me  
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/SakaGintoki)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<p align="left">
+  <a href="https://github.com/SakaGintoki">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
 ---
 
-## 📊 GitHub Stats  
+## GitHub Stats  
 
 ![SakaGintoki's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SakaGintoki&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SakaGintoki&layout=compact&theme=tokyonight)
