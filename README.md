@@ -45,7 +45,7 @@ Ask me about:
 
 ### Currently Learning  
 <p>
-  <img src="https://skillicons.dev/icons?i=aws" />
+  <img src="https://img.shields.io/badge/AWS_Cloud-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/IoT_ESP32-00979D?logo=espressif&logoColor=white&style=for-the-badge" height="30" />
   <img src="https://img.shields.io/badge/Cybersecurity-FB542B?logo=hackthebox&logoColor=white&style=for-the-badge" height="30" />
 </p>
@@ -58,11 +58,8 @@ Ask me about:
   <a href="https://github.com/SakaGintoki">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://linkedin.com/in/yourusername">
+  <a href="https://linkedin.com/in/malvinshah-haris-athala">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
-  </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
 </p>
 
