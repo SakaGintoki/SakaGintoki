@@ -14,8 +14,6 @@ I aim to gain practical experience in how systems operate, interact, and can be 
 Ask me about:  
 - Basic Cybersecurity Concepts  
 - Cloud Fundamentals (AWS)  
-- IoT Projects with ESP32  
-- Game Development with Unity (C#)  
 
 ---
 
