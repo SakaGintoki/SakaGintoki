@@ -5,8 +5,6 @@
 
 ---
 
-## About Me  
-
 I'm currently learning and exploring technologies related to **Cybersecurity** and **Cloud Computing**.  
 My focus is on building a solid understanding of both fields through **cloud-based projects** and participating in **CTF competitions**.  
 I aim to gain practical experience in how systems operate, interact, and can be secured effectively.
